@@ -1,70 +1,76 @@
-# Getting Started with Create React App
+### This is the Front-End project for an API (project-reactgram) made in Java. ✨✨
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created and modified during Matheus Battisti's React course studies.
 
-## Available Scripts
+💻 Technologies used:<br />
+React
+<br />
+Javascript
+<br />
+Axios (for communication with API)
+<br />
 
-In the project directory, you can run:
+✅ What we have already implemented:
+<br />
+👥 - User registration;
+<br />
+👤 - Log in;
+<br />
+📁 - Dashboard with posted photos;
+<br />
+📷 - Action of posting a photo;
+<br />
+📍 - Photo page with details (who posted, post data, photo description and image);
+<br />
+📤 - Updating basic information (username, name, profile photo and description);
+<br />
+📥 - Update user password;
+<br /><br />
 
-### `npm start`
+⚡ - **Login screen**;
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![Login](https://github.com/devluanna/reactgram-front/assets/119416976/3762a870-0e37-46ed-bf40-6e4947f15e5f)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+⚡ - **Register screen with Validations**:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![image](https://github.com/devluanna/reactgram-front/assets/119416976/1cfdabd8-3ef5-4762-8739-9f739a7caf45)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+⚡ - **User Dashboard screen to post photos**:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![DashboardUser](https://github.com/devluanna/reactgram-front/assets/119416976/fda81394-8bf1-4eb1-928d-82e9765db368)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+⚡ - **Posted photo details screen**:
+<br />
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![PhotoDetails](https://github.com/devluanna/reactgram-front/assets/119416976/7bb973ac-efbc-4ec3-9062-93b540be644e)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+⚡ - **Screen for posting photos**:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![SharePhoto](https://github.com/devluanna/reactgram-front/assets/119416976/e333f11c-c038-417e-b7c8-16e014a90b6c)
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+⚡ - **Screen to update user information (with validations)**:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![ValidationsUserExists](https://github.com/devluanna/reactgram-front/assets/119416976/df44f6dd-8a39-48b3-88c5-298d8aedd805)
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+⚡ - **Screen to update user password (with validations)**:
 
-### Analyzing the Bundle Size
+![ValidationsPassword](https://github.com/devluanna/reactgram-front/assets/119416976/06995f32-c9bf-4dbe-a33a-649e0be526f1)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+### **It is important to highlight that all validations are being handled in the backend as well.**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+❌ Upcoming Features:
+<br />
+💭 - Add comments to photos;
+<br />
+❤️ - Like a photo;
+<br />
+🌍 - Home with all posted photos
+<br />
+🔎 - Leave the search bar functional.
