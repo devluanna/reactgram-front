@@ -3,10 +3,14 @@
 This project was created and modified during Matheus Battisti's React course studies.
 
 💻 Technologies used:
+<br />
 - React
+<br />
 -Javascript
+<br />
 - Axios (for communication with API)
 <br />
+
 ✅ What we have already implemented:
 <br />
 👥 - User registration;
