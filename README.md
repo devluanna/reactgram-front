@@ -33,7 +33,7 @@ npm install --save styled-components<br />
 npm i axios<br />
 npm i react-jwt<br />
 npm i react-icons<br />
-
+<br /><br />
 ⚡ - **Login screen**;
 
 ![Login](https://github.com/devluanna/reactgram-front/assets/119416976/3762a870-0e37-46ed-bf40-6e4947f15e5f)
