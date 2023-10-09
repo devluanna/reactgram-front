@@ -76,9 +76,10 @@ Axios (for communication with API)
 🔎 - Leave the search bar functional.
 
 ✅ Back-end Repository: https://github.com/devluanna/project-reactgram
-<br />
+<br /><br />
 💻 Technologies ​​used:
-- Java 17
-- Framework SpringBoot
-- PostgreSQL
-- Deploy with Railway
+<br />
+Java 17
+Framework SpringBoot
+PostgreSQL
+Deploy with Railway
