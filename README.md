@@ -2,7 +2,7 @@
 
 This project was created and modified during Matheus Battisti's React course studies.
 
-💻 Technologies used:
+💻 Technologies used:<br />
 React
 <br />
 Javascript
