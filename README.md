@@ -27,7 +27,7 @@ Axios (for communication with API)
 📥 - Update user password;
 <br /><br />
 
-**Libraries used:**<br />
+**Dependencies (libs) used:**<br />
 npm i react-router-dom<br />
 npm install --save styled-components<br />
 npm i axios<br />
