@@ -46,7 +46,7 @@ function PagePhotoPosted() {
   const imagePosted = fileName
     ? `http://localhost:8080/images/${fileName}`
     : `https://www.promoview.com.br/uploads/2017/04/b72a1cfe.png`;
-S
+
   // Profile Image
   const profileImageParts =
     photoDetails && photoDetails.photoPosted.profileImage

@@ -30,7 +30,6 @@ function App() {
       <Route path="/update" element={!localStorage.getItem("token") ? (<Login />) : ( <UpdateUser />)}/>
       <Route path="/updatePassword" element={!localStorage.getItem("token") ? (<Login />) : ( <UpdatePassword />)}/>
       <Route path="/photos/:idPhotoPosted" element={<PagePhotoPosted />}/>
-
       <Route path="/register" element={<Register />} />
       <Route path="/" element={<Login />} />
       </Routes>

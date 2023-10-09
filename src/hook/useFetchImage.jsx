@@ -1,11 +1,7 @@
-import { createContext, useState, useEffect } from "react";
+import React from "react";
 import axios from "axios";
 
-
 export const useFetchImage = () => {
-
-  //const [file, setFile] = useState("");
-
   const id = localStorage.getItem("id");
 
   const updateImage = async (photo) => {

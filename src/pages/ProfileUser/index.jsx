@@ -44,7 +44,6 @@ const Profile = () => {
     navigate(`/update`);
   };
 
-
  // Profile Image
  const parts = userData.profileImage.split("\\");
  const fileName = parts[parts.length - 1];
