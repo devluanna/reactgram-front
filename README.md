@@ -79,7 +79,7 @@ Axios (for communication with API)
 <br /><br />
 💻 Technologies ​​used:
 <br />
-Java 17
-Framework SpringBoot
-PostgreSQL
+Java 17<br />
+Framework SpringBoot<br />
+PostgreSQL<br />
 Deploy with Railway
