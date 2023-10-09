@@ -1,13 +1,13 @@
-## This is the Front-End project for an API (project-reactgram) made in Java. ✨✨
+### This is the Front-End project for an API (project-reactgram) made in Java. ✨✨
 
 This project was created and modified during Matheus Battisti's React course studies.
 
 💻 Technologies used:
-- React
+React
 <br />
--Javascript
+Javascript
 <br />
-- Axios (for communication with API)
+Axios (for communication with API)
 <br />
 
 ✅ What we have already implemented:
@@ -44,10 +44,11 @@ This project was created and modified during Matheus Battisti's React course stu
 
 ⚡ - **Posted photo details screen**:
 <br />
+
 ![PhotoDetails](https://github.com/devluanna/reactgram-front/assets/119416976/7bb973ac-efbc-4ec3-9062-93b540be644e)
 
 
-⚡ - ** Screen for posting photos **:
+⚡ - **Screen for posting photos**:
 
 ![SharePhoto](https://github.com/devluanna/reactgram-front/assets/119416976/e333f11c-c038-417e-b7c8-16e014a90b6c)
 
@@ -67,7 +68,7 @@ This project was created and modified during Matheus Battisti's React course stu
 ![ValidationsPassword](https://github.com/devluanna/reactgram-front/assets/119416976/06995f32-c9bf-4dbe-a33a-649e0be526f1)
 
 
-# **It is important to highlight that all validations are being handled in the backend as well.**
+### **It is important to highlight that all validations are being handled in the backend as well.**
 
 ❌ Upcoming Features:
 <br />
