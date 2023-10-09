@@ -6,8 +6,8 @@ This project was created and modified during Matheus Battisti's React course stu
 - React
 -Javascript
 - Axios (for communication with API)
-
-- ✅ What we have already implemented:
+<br />
+✅ What we have already implemented:
 <br />
 👥 - User registration;
 <br />
@@ -22,23 +22,24 @@ This project was created and modified during Matheus Battisti's React course stu
 📤 - Updating basic information (username, name, profile photo and description);
 <br />
 📥 - Update user password;
+<br /><br />
 
 ⚡ - **Login screen**;
 
 ![Login](https://github.com/devluanna/reactgram-front/assets/119416976/3762a870-0e37-46ed-bf40-6e4947f15e5f)
 
 
-⚡ - ** Register screen with Validations **:
+⚡ - **Register screen with Validations**:
 
 ![image](https://github.com/devluanna/reactgram-front/assets/119416976/1cfdabd8-3ef5-4762-8739-9f739a7caf45)
 
 
-⚡ - ** User Dashboard screen to post photos **:
+⚡ - **User Dashboard screen to post photos**:
 
 ![DashboardUser](https://github.com/devluanna/reactgram-front/assets/119416976/fda81394-8bf1-4eb1-928d-82e9765db368)
 
 
-⚡ - ** Posted photo details screen **:
+⚡ - **Posted photo details screen**:
 <br />
 ![PhotoDetails](https://github.com/devluanna/reactgram-front/assets/119416976/7bb973ac-efbc-4ec3-9062-93b540be644e)
 
@@ -48,22 +49,22 @@ This project was created and modified during Matheus Battisti's React course stu
 ![SharePhoto](https://github.com/devluanna/reactgram-front/assets/119416976/e333f11c-c038-417e-b7c8-16e014a90b6c)
 
 
-⚡ - ** Screen to update user information (with validations) **:
+⚡ - **Screen to update user information (with validations)**:
 
 ![ValidationsUserExists](https://github.com/devluanna/reactgram-front/assets/119416976/df44f6dd-8a39-48b3-88c5-298d8aedd805)
 
 
-⚡ - ** Screen to update user password (with validations) **:
+⚡ - **Screen to update user password (with validations)**:
 
 ![ValidationsPassword](https://github.com/devluanna/reactgram-front/assets/119416976/06995f32-c9bf-4dbe-a33a-649e0be526f1)
 
 
-⚡ - ** Screen to update user password (with validations) **:
+⚡ - **Screen to update user password (with validations)**:
 
 ![ValidationsPassword](https://github.com/devluanna/reactgram-front/assets/119416976/06995f32-c9bf-4dbe-a33a-649e0be526f1)
 
 
-** It is important to highlight that all validations are being handled in the backend as well. **
+# **It is important to highlight that all validations are being handled in the backend as well.**
 
 ❌ Upcoming Features:
 <br />
