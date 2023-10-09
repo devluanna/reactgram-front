@@ -63,11 +63,6 @@ Axios (for communication with API)
 ![ValidationsPassword](https://github.com/devluanna/reactgram-front/assets/119416976/06995f32-c9bf-4dbe-a33a-649e0be526f1)
 
 
-⚡ - **Screen to update user password (with validations)**:
-
-![ValidationsPassword](https://github.com/devluanna/reactgram-front/assets/119416976/06995f32-c9bf-4dbe-a33a-649e0be526f1)
-
-
 ### **It is important to highlight that all validations are being handled in the backend as well.**
 
 ❌ Upcoming Features:
