@@ -3,11 +3,27 @@
 This project was created and modified during Matheus Battisti's React course studies.
 
 💻 Technologies used:
-- To react
+- React
 -Javascript
 - Axios (for communication with API)
 
-⚡ - ** Login screen **:
+- ✅ What we have already implemented:
+<br />
+👥 - User registration;
+<br />
+👤 - Log in;
+<br />
+📁 - Dashboard with posted photos;
+<br />
+📷 - Action of posting a photo;
+<br />
+📍 - Photo page with details (who posted, post data, photo description and image);
+<br />
+📤 - Updating basic information (username, name, profile photo and description);
+<br />
+📥 - Update user password;
+
+⚡ - (**) Login screen (**);
 
 ![Login](https://github.com/devluanna/reactgram-front/assets/119416976/3762a870-0e37-46ed-bf40-6e4947f15e5f)
 
@@ -48,22 +64,6 @@ This project was created and modified during Matheus Battisti's React course stu
 
 
 ** It is important to highlight that all validations are being handled in the backend as well. **
-
-✅ What we have already implemented:
-<br />
-👥 - User registration;
-<br />
-👤 - Log in;
-<br />
-📁 - Dashboard with posted photos;
-<br />
-📷 - Action of posting a photo;
-<br />
-📍 - Photo page with details (who posted, post data, photo description and image);
-<br />
-📤 - Updating basic information (username, name, profile photo and description);
-<br />
-📥 - Update user password;
 
 ❌ Upcoming Features:
 <br />
