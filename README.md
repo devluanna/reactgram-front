@@ -27,6 +27,13 @@ Axios (for communication with API)
 📥 - Update user password;
 <br /><br />
 
+**Libraries used:**<br />
+npm i react-router-dom<br />
+npm install --save styled-components<br />
+npm i axios<br />
+npm i react-jwt<br />
+npm i react-icons<br />
+
 ⚡ - **Login screen**;
 
 ![Login](https://github.com/devluanna/reactgram-front/assets/119416976/3762a870-0e37-46ed-bf40-6e4947f15e5f)
