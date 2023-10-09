@@ -82,11 +82,12 @@ npm i react-icons<br />
 <br />
 🔎 - Leave the search bar functional.
 
-✅ Back-end Repository: https://github.com/devluanna/project-reactgram
 <br /><br />
-💻 Technologies ​​used:
+💻 Technologies used in the backend:
 <br />
 Java 17<br />
 Framework SpringBoot<br />
 PostgreSQL<br />
 Deploy with Railway
+<br />
+✅ Back-end Repository: https://github.com/devluanna/project-reactgram
