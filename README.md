@@ -23,7 +23,7 @@ This project was created and modified during Matheus Battisti's React course stu
 <br />
 📥 - Update user password;
 
-⚡ - (**) Login screen (**);
+⚡ - **Login screen**;
 
 ![Login](https://github.com/devluanna/reactgram-front/assets/119416976/3762a870-0e37-46ed-bf40-6e4947f15e5f)
 
